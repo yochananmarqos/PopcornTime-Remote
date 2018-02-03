@@ -41,7 +41,7 @@ end
 
 function doSearch(searchterm)
 	--Open search bar
-	kb.stroke("ctrl", "f"); 
+	kb.stroke("ctrl", "f");
 
 	--Clear last search
 	kb.stroke("ctrl", "a");
@@ -54,7 +54,7 @@ end
 
 function clearsearch()
 	--Open search bar
-	kb.stroke("ctrl", "f"); 
+	kb.stroke("ctrl", "f");
 
 	--Clear last search
 	kb.stroke("ctrl", "a");
@@ -91,7 +91,7 @@ end
 
 -- Handle simple control functions
 actions.playpause = function() -- Pause / Play
-	-- kb.stroke("p");
+	-- kb.stroke("space");
 	decreaseCoverSize();
 end
 
