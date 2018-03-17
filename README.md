@@ -15,5 +15,3 @@ PopcornTime remote was made with keyboard input in mind, when PopcornTime hopefu
 ## Support
 Developed and maintained by **mikembley**  
 http://community.unifiedremote.com/topic/51/popcorntime-remote
-
-#test
